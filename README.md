@@ -4,4 +4,4 @@ Scientist Programmer & Client Interface Specialist. UI/UX Developer for Accessib
 
 <br>
 
-![Pin](./vectors/pin.svg) UY Montevideo
+![Pin](./vectors/pin.svg)  UY Montevideo
