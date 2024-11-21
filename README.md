@@ -1,4 +1,4 @@
-### ![Verified](./verified.svg)  Andrés
+### ![Verified](./vectors/verified.svg)  Andrés
 
 <br>
 Scientist Programmer & Client Interface Specialist. UI/UX Developer for Accessible Solutions Across All People and Devices.
@@ -6,4 +6,4 @@ Scientist Programmer & Client Interface Specialist. UI/UX Developer for Accessib
 <br>
 <br>
 
-![Pin](./pin.svg) UY Montevideo
+![Pin](./vectors/pin.svg) UY Montevideo
